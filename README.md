@@ -1,7 +1,7 @@
 # RL Arcade Car Game
 
 A small project where I recreated an arcade-style car game in **PICO-8**, inspired by an old McDonald's toy.  
-I also built a **Reinforcement Learning agent in Python** capable of beating the game.
+I also built a **Reinforcement Learning agent in Python** (using the Q-Learning Method) capable of beating the game.
 
 ---
 

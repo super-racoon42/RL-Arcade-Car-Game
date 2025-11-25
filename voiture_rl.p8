@@ -498,6 +498,7 @@ function bt()
 		lvl = 1
 		v = 20
 		state = 0
+		p = {0,1,0}
 	end
 	
 end
